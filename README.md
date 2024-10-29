@@ -1,1 +1,1 @@
-https://mikhail-wunder.github.io/rsschool-cv/cv
+https://mikhail-wunder.github.io/rsschool-cv/
