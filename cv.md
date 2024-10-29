@@ -15,3 +15,26 @@ I have recently started my journey to become a frontend developer. I’m dedicat
 ## Skills
 
 HTML, CSS, JavaScript, Chrome DevTools
+
+## Code Examples
+
+```js
+function multiply(a, b) {
+  return a * b;
+}
+```
+
+## Work Experience
+
+No experience yet :(
+
+## Education
+
+**Belarusian State University (BSU)**\
+Faculty of Philosophy and Social Studies\
+Bachelor's degree in Social Communications\
+Graduation Year: 2021
+
+## English Language
+
+Upper-Intermediate (B2)
